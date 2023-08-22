@@ -1,6 +1,6 @@
 # BankApplication
-This application allows you to create your account at bank called "IVM Capital", not real bank, and manage your virtual money
-IVM Capital Bank 
+###This application allows you to create your account at bank called "IVM Capital", not real bank, and manage your virtual money
+IVM Capital Bank### 
 
 Features
 Track expenses: Monitor and keep a record of your expenses for better financial management.
