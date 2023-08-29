@@ -1,6 +1,6 @@
 # BankApplication
 ## This application allows you to create your account at bank called "IVM Capital", not real bank, and manage your virtual money IVM Capital Bank
-
+---
 ## Features
 + Track expenses: Monitor and keep a record of your expenses for better financial management.
 + Account management: Manage your accounts, including adding, editing, and deleting payment cards, bank accounts, and other financial accounts.
@@ -20,7 +20,7 @@
 + Graphics Card: DirectX 11 compatible or higher.
 + Sound Device: DirectX compatible sound card.
 > Note: These are the minimum system requirements. For optimal performance, it is recommended to have a higher amount of RAM, more free disk space, and an up-to-date operating system.
- 
+ ---
  ## Usage
 + Registration: The first time you use the program, you need to register an account by providing the necessary details.
 + Login: After registration, login to the program using your account credentials.
